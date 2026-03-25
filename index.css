@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://wp.theringer.com/wp-content/uploads/2021/11/lameloball_JonathanBartlett.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: azure;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: purple;
+}
+
+#save-btn {
+    background: teal;
+}
+
+#save-el{
+  
+    width: 400px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+div{
+    max-width: 2005px;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 5px;
+    color: white;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
